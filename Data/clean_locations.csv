@@ -1,0 +1,9 @@
+,sales_outlet_id,sales_outlet_type,store_square_feet,store_postal_code,store_longitude,store_latitude,Neighorhood,CD
+1,3,existing,1300,11106,-73.924008,40.761196000000005,Astoria,Queens CD 1
+2,4,potential,1300,11215,-73.98398399999999,40.677645,Gowanus,Brooklyn CD 6
+3,5,existing,900,10007,-74.01013,40.71329,Lower Manhattan,Manhattan CD 1
+4,6,potential,1000,10002,-73.992687,40.713852,Lower East Side,Manhattan CD 3
+5,7,potential,1200,10021,-73.96,40.77,Upper East Side,Manhattan CD 6
+6,8,existing,1500,10036,-73.990338,40.761887,Chelsea and Clinton,Manhattan CD 4
+7,9,potential,1700,10011,-74.000502,40.74276,Chelsea and Clinton,Manhattan CD 4
+8,10,potential,1600,10014,-74.00272199999999,40.734367,Greenwich Village,Manhattan CD 2
